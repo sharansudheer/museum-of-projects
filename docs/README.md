@@ -2,11 +2,11 @@
 
 ## Department of R&D :-
 
-### CMS R&amp;D;
+- ### CMS R&amp;D;
 
     1. ⬜️ [CimplyAwesome](https://github.com/sharansudheer/rust-cms-fullstack-app) -> A Rust-Axum Based CMS Solution Powered By PostgreSQL and Redis for Cache.
 
-### Management and ERP R&D :-
+- ### Management and ERP R&D :-
 
     1. #### Retail ERP :-
 
@@ -20,7 +20,7 @@
 
 ## Department of LLMS and AI :-
 
-### LLM Agent based Apps:- 
+- ### LLM Agent based Apps:- 
     
     1. [Miss Minutes](https://github.com/sharansudheer/meeting_minutes_bot) -> A Document Summarisation Tool.
 
