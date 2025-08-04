@@ -38,8 +38,13 @@ B. ⬜️ [Rusty Retailer](https://github.com/sharansudheer/rusty-retailer) -> A
 ## Department of Archival :-
 
 
-## Department of Homeland Security :- 
+## Department of Homeland Security, Led By Dinah Madani ❤️ :- 
 
+1. [RustySabre](https://github.com/sharansudheer/rustysabre)     -> Research on Security regarding the Pitfalls in Message Brokers, RPC and IPC between different Services in a Rust-Actix based Web Application, used as a Simulation Ground.
+
+2. [Aspire]()
+
+3.  [Go]()
 
 ### OS and Microservices Infrastructure :- 
 
