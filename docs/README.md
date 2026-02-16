@@ -4,22 +4,23 @@
 
 **So Let's Get Puncy, Shall We!!**
 
+# Active Ones
 
 ## Department of R&D :-
 
 ### CMS R&amp;D :-
 
-1. ⬜️ [CimplyAwesome](https://github.com/sharansudheer/rust-cms-fullstack-app) -> A Rust-Axum Based CMS Solution Powered By PostgreSQL and Redis for Cache.
-
+1. [CimplyAwesome](https://github.com/sharansudheer/rust-cms-fullstack-app) -> A Rust-Axum Based CMS Solution Powered By PostgreSQL and Redis for Cache.
 
 ### Management and ERP R&D :-
-
-1. #### Retail ERP :-
-
-A. ⬜ [Project-Alpha](https://github.com/sharansudheer/bookstore-manager-csharp) -> A C# Based Book Store Management Solution.
-
-B. ⬜️ [Rusty Retailer](https://github.com/sharansudheer/rusty-retailer) -> A Rust-Axum or Actix Based ERP Solution, more like the C# remake version.
-
+<ol type='A'>
+    <li>Retail ERP :-
+        <ol type='I'>
+        <li>
+        <a href="https://github.com/sharansudheer/bookstore-manager-csharp">Project-Alpha</a> -> A C# Based Book Store Management Solution.</li>
+        <li>
+        <a href="https://github.com/sharansudheer/rusty-retailer">Rusty Retailer</a> -> A Rust-Axum or Actix Based ERP Solution, more like the C# remake version.</li>
+</ol>
 
 2. #### Restaurant Management :-
 
