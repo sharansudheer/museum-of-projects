@@ -3,6 +3,13 @@
 I think that the AI era is making us less and less smart and intellect because we are offloading our ability to research, think, sit on a thought, that natural intuition of the what a solution to a problem might be because we are making a “Glorified Search Engine” 
 pattern match our prompt from a statistical perspective it has from all the ok, good, poisoned and sloppy data it has, and from that it gives us an answer.  
 
+We are becoming more and more in-tuned to the fact that we are moving to a very fast paced and serious lifestyle.  
+Everything, well eh, many of the things are available to us instantly, making tasks that require a lot thought and effort for far less ROI that our brain can process in the given timeframe, more and more challenging.  
+
+A lot of the tech out there are robbing us silently without we even thinking twice because it seems free on the outside and instant ROI.  
+Why, because we are becoming less Patient to sit with problems and solving them with our brains and sand rather than algorithms and automations.  
+Turning us into a Patient by our own creation, sort of like a chicken and egg loop.
+
 On a short run it might seem productive but on the long run, people aren’t factoring in physical and mental/human cost. Because we all are selfish to a degree, Let X be the degree because we a humans and no protractor can measure the degree.  
 
 So people who are really smart enough takes a bulk of the cut and others are left fending for themselves thinking about what’s life beyond this new normal.  
