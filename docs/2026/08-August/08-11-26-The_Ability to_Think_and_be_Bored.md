@@ -1,4 +1,4 @@
-##08-11-26-The Ability to Think and be Bored
+## 08-11-26 The Ability to Think and be Bored
 
 I think that the AI era is making us less and less smart and intellect because we are offloading our ability to research, think, sit on a thought, that natural intuition of the what a solution to a problem might be because we are making a “Glorified Search Engine” 
 pattern match our prompt from a statistical perspective it has from all the ok, good, poisoned and sloppy data it has, and from that it gives us an answer.  
