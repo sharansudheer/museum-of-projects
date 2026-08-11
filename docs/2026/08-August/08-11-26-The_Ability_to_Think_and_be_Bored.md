@@ -1,14 +1,16 @@
 ## 08-11-26 The Ability to Think and be Bored
 
-I think that the AI era is making us less and less smart and intellect because we are offloading our ability to research, think, sit on a thought, that natural intuition of the what a solution to a problem might be because we are making a “Glorified Search Engine” 
+I think that the AI era is making us less and less smart and intellect because we are offloading our ability to research, think, sit on a thought, that natural intuition of the of What could be a solution to a problem might be because we are making a “Glorified Search Engine” 
 pattern match our prompt from a statistical perspective it has from all the ok, good, poisoned and sloppy data it has, and from that it gives us an answer.  
 
 We are becoming more and more in-tuned to the fact that we are moving to a very fast paced and serious lifestyle.  
-Everything, well eh, many of the things are available to us instantly, making tasks that require a lot thought and effort for far less ROI that our brain can process in the given timeframe, more and more challenging.  
+Everything, well eh, many of the things are available to us instantly, making tasks that require a lot thought and effort with far less ROI that our brain can process in the given timeframe, more and more challenging.  
 
 A lot of the tech out there are robbing us silently without we even thinking twice because it seems free on the outside and instant ROI.  
-Why, because we are becoming less Patient to sit with problems and solving them with our brains and sand rather than algorithms and automations.  
-Turning us into a Patient by our own creation, sort of like a chicken and egg loop.
+Why, because we are becoming less patient to sit with the problems that we need tackle and solving and solving them with our brains and sand rather than algorithms and automations. 
+
+Turning us into a Patient by our own creation, sort of like a chicken and egg loop. And the system has moved towards punishing slow work and rewarding fast solutions rather than Factoring in long term growth, learning, quality, establishing and maintaining relationships. 
+Because, it's Fast ROI 😂. Sealing the Fate and and starting the cycle of the inevitable. Like a person stuck inside a washing machine in a Laundromat 😂. 
 
 On a short run it might seem productive but on the long run, people aren’t factoring in physical and mental/human cost. Because we all are selfish to a degree, Let X be the degree because we a humans and no protractor can measure the degree.  
 
